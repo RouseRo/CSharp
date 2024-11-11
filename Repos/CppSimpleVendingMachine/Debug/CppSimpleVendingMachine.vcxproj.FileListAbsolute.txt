@@ -1,0 +1,2 @@
+C:\Users\rober_000\Source\Repos\CppSimpleVendingMachine\Debug\CppSimpleVendingMachine.exe
+C:\Users\rober_000\Source\Repos\CppSimpleVendingMachine\Debug\CppSimpleVendingMachine.pdb
